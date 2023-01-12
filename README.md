@@ -9,7 +9,7 @@
 ③使用言語<br>
 　C言語<br><br>
 ④開発環境<br>
-　VisualStudio2019<br><br>
+　VisualStudio2022<br><br>
 ⑤処理<br>
 ・メインルーチンとCMDへの描画処理<br>
 ・終了画面の表示<br>
