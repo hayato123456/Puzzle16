@@ -1,5 +1,5 @@
 # Puzzle16(CMD)
-・main.c<br>
+・main.cpp<br>
 　コマンドプロンプトで動かせる16パズルを作成しました。<br><br>
 ①タイトル<br>
 　15パズル<br><br>
